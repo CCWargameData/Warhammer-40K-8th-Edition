@@ -195,7 +195,7 @@
           "optionCost" : 5.0,
           "listOfRestrictions" : null,
           "optionID" : 2231,
-          "optionName" : "Enchanced data-tether",
+          "optionName" : "Enchanced Data-Tether",
           "autoAddDictionary" : null,
           "modelsAdded" : 0,
           "listOfCurrencies" : null
