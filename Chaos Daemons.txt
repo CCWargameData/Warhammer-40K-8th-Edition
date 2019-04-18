@@ -11,7 +11,7 @@
           "numberOfTimesNeededToBeFound" : -1,
           "maxAllowed" : -1,
           "multiplier" : -1,
-          "errorMessage" : "You may only have one Skarbrand",
+          "errorMessage" : "You may only a single Skarbrand",
           "nameOfCheck" : "checkUnitsInList",
           "globalProperty" : "",
           "nameOfUpgradeProperty" : "",
