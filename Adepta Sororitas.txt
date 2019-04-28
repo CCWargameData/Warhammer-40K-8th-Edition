@@ -149,7 +149,7 @@
           "optionCost" : 4.0,
           "listOfRestrictions" : null,
           "optionID" : 4584,
-          "optionName" : "Power sword",
+          "optionName" : "Power Sword",
           "autoAddDictionary" : { },
           "modelsAdded" : 0,
           "listOfCurrencies" : { }
