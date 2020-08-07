@@ -6304,16 +6304,15 @@
         "startingModels" : 1,
         "listOfCurrencies" : { }
       }, {
-        "unitname" : "Severina Raine",
+        "unitName" : "Severina Raine",
         "listOfOptions" : null,
         "listOfRestrictions" : null,
-        "unitCategory" : "elites",
-        "unitCost" : 32.0,
-        "unitID" : 5064, ##this may need to change
+        "unitCategory" : "Elites",
+        "unitCost" : 55.0,
+        "unitID" : 32643,
         "autoAddDictionary" : { },
         "startingModels" : 1,
         "listOfCurrencies" : { }
-
       } ],
       "listOfEquipmentOptions" : [ {
         "listOfOptions" : [ {
